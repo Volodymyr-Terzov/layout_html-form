@@ -1,9 +1,8 @@
 .form-field:not(:last-child) {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  display: block;
+  margin-bottom: 10px;
 }
 
 .form-block {
-  margin-top: 20px;
   margin-bottom: 20px;
 }
